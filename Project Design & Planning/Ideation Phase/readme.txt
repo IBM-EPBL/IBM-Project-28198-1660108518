@@ -1,13 +1,6 @@
-IBM-Project-28198-1660108518
+The following documents are present in this folder:
 
-Plasma Donor Application
-
-Team Size : 4
-
-Team Leader : Dhanush
-
-Team member : Jaya Surya
-
-Team member : Kesavaraj
-
-Team member : Mohan
+Literature survey
+Empathy map
+Ideation - ideas obtained through brainstorming
+All the necessary software are installed and prerequisites completed (Preparation Phase completed).
