@@ -1,0 +1,16 @@
+* {
+    background-color: cornflowerblue;
+}
+.body-full {
+    background: cornflowerblue;
+}
+.page_head {
+    background: #ff0084;
+}
+.bg-nav {
+    background: #ff0084;
+}
+.home {
+    margin-top: 100px;
+    font-size: 60px;
+}
