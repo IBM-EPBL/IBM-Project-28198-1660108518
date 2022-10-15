@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+{% endblock %}
+
+{% block body %}
+
+<div class="body-full">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <h1 class="home">SignUp Page</h1>
+            </div>
+            <div class="col-md-4">
+                <div class="card-body">
+                    <br>
+                    <form>
+                        <label for="fname">Name:</label><br>
+                        <input type="text" class="form-control" name="fname" required><br>
+                        <label for="lname">Email:</label><br>
+                        <input type="email" class="form-control" name="email" required><br>
+                        <label for="mobile">Mobile:</label><br>
+                        <input type="number" class="form-control" name="mobile" required><br>
+                        <label for="password">Password:</label><br>
+                        <input type="password" class="form-control" name="password" required><br>
+                    
+                        <input type="submit" value="Create" class="btn btn-primary"><br><br>
+                        <a href="/signin" class="login">Login</a>
+                    </form> 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
