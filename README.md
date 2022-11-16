@@ -1,3 +1,6 @@
+![plasma image](https://user-images.githubusercontent.com/111105785/202229333-a662d3ea-cd7b-42a0-b1b1-d29f35e3e91b.jpg)
+
+
 # IBM-Project-28198-1660108518
 
 # Team ID : PNT2022TMID16634
